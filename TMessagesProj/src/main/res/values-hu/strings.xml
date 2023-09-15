@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="PentagramHidePosts">Oszlopok elrejtése</string>
+    <string name="PentagramWithExternalLinks">Bejegyzések külső linkekkel a csatornákon</string>
+    <string name="PentagramHide">Elrejt</string>
+    <string name="PentagramWithExternalLinksDescr">Az összes külső linkeket tartalmazó hozzászólás elrejtőzik</string>
+    <string name="PentagramStopWords">Leállítani a szavakat</string>
+    <string name="PentagramAddNewWord">Adjon hozzá új szót</string>
+    <string name="PentagramEdit">Szerkeszt</string>
+    <string name="PentagramDelete">Töröl</string>
+    <string name="PentagramHidden">Az üzenetet a Pentagram elrejtette</string>
+
+    <string name="PentagramWithTelegramLinks">Bejegyzések Telegram linkekkel a csatornákon</string>
+    <string name="PentagramWithTelegramLinksDescr">A Telegram-hivatkozásokat (t.me vagy @example) tartalmazó összes bejegyzés el lesz rejtve</string>
+    <string name="PentagramFeatures">A Pentagram funkciói</string>
+    <string name="PentagramDescr">**Pentagram** egy alternatív funkciókkal rendelkező kliens amely a Telegram API-t használja és része a Telegram ökoszisztémának</string>
+
+</resources>

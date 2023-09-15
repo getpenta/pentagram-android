@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="PentagramHidePosts">Схаваць паведамленні</string>
+    <string name="PentagramWithExternalLinks">Паведамленні з знешнімі спасылкамі на каналах</string>
+    <string name="PentagramHide">Хаваць</string>
+    <string name="PentagramWithExternalLinksDescr">Усе паведамленні, якія змяшчаюць любыя знешнія спасылкі, будуць схаваны</string>
+    <string name="PentagramStopWords">Спыніце словы</string>
+    <string name="PentagramAddNewWord">Дадайце новае слова</string>
+    <string name="PentagramEdit">Рэдагаваць</string>
+    <string name="PentagramDelete">Выдаляць</string>
+    <string name="PentagramHidden">Паведамленне было схавана Pentagram</string>
+
+    <string name="PentagramWithTelegramLinks">Паведамленні з Telegram спасылкамі на каналах</string>
+    <string name="PentagramWithTelegramLinksDescr">Усе паведамленні якія змяшчаюць спасылкі ў Telegram (t.me або @example) будуць схаваны</string>
+    <string name="PentagramFeatures">Магчымасці Pentagram</string>
+    <string name="PentagramDescr">**Pentagram** - гэта кліент з альтэрнатыўнымі функцыямі які выкарыстоўвае API Telegram і з\'яўляецца часткай экасістэмы Telegram</string>
+
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="PentagramHidePosts">پنهان کردن پست ها</string>
+    <string name="PentagramWithExternalLinks">ارسال با پیوندهای خارجی در کانال ها</string>
+    <string name="PentagramHide">پنهان شدن</string>
+    <string name="PentagramWithExternalLinksDescr">تمام پست های حاوی هرگونه پیوندهای خارجی پنهان می شوند</string>
+    <string name="PentagramStopWords">کلمات را متوقف کنید</string>
+    <string name="PentagramAddNewWord">کلمه جدید اضافه کنید</string>
+    <string name="PentagramEdit">ویرایش کردن</string>
+    <string name="PentagramDelete">حذف</string>
+    <string name="PentagramHidden">این پیام توسط پنتاگرام مخفی شد</string>
+
+    <string name="PentagramWithTelegramLinks">اپست با لینک تلگرام در کانال</string>
+    <string name="PentagramWithTelegramLinksDescr">تمامی پست های حاوی لینک های تلگرام (t.me یا @example) مخفی خواهند شد</string>
+    <string name="PentagramFeatures">ویژگی های پنتاگرام</string>
+    <string name="PentagramDescr">**Pentagram**  یک کلاینت با عملکردهای جایگزین است که از API تلگرام استفاده می کند و بخشی از اکوسیستم تلگرام است </string>
+
+</resources>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="PentagramStopWord">Стоп слово</string>
+
+    <string name="PentagramHidePosts">Скрыть посты</string>
+    <string name="PentagramWithExternalLinks">Посты с внешними ссылками на каналах</string>
+    <string name="PentagramHide">Скрыть</string>
+    <string name="PentagramWithExternalLinksDescr">Все посты, содержащие любые внешние ссылки, будут скрыты</string>
+    <string name="PentagramStopWords">Стоп слова</string>
+    <string name="PentagramAddNewWord">Добавить новое слово</string>
+    <string name="PentagramEdit">Редактировать</string>
+    <string name="PentagramDelete">Удалить</string>
+    <string name="PentagramHidden">Сообщение скрыто Pentagram</string>
+
+    <string name="PentagramWithTelegramLinks">Посты с Telegram ссылками на каналах</string>
+    <string name="PentagramWithTelegramLinksDescr">Все сообщения содержащие любые Telegram ссылки (t.me или @example) будут скрыты</string>
+    <string name="PentagramFeatures">Возможности Pentagram</string>
+    <string name="PentagramDescr">**Pentagram** – это клиент с альтернативными функциями использующий Telegram API и являющийся частью экосистемы Telegram</string>
+
+    <string name="PentagramResetAllStopWords">Сбросить все стоп-слова</string>
+    <string name="PentagramResetAllStopWordsMessage">Вы точно хотите сбросить все стоп-слова?</string>
+
+    <string name="PentagramHideReactions">Скрыть реакции</string>
+    <string name="PentagramHideReactionsPrivateChats">Личные чаты</string>
+    <string name="PentagramHideReactionsGroups">Группы</string>
+    <string name="PentagramHideReactionsChannels">Каналы</string>
+    <string name="PentagramHideReactionsBots">Боты</string>
+
+    <string name="PentagramCancel">Отмена</string>
+    <string name="PentagramReset">Сброс</string>
+
+
+</resources>

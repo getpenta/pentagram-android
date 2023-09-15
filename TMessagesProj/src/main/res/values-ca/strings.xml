@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="PentagramHidePosts">Amaga els pals</string>
+    <string name="PentagramWithExternalLinks">Publicacions amb enllaços externs als canals</string>
+    <string name="PentagramHide">Amagar</string>
+    <string name="PentagramWithExternalLinksDescr">Totes les publicacions que continguin els enllaços externs seran ocults</string>
+    <string name="PentagramStopWords">Para paraules</string>
+    <string name="PentagramAddNewWord">Afegiu una paraula nova</string>
+    <string name="PentagramEdit">Preprarar una edició</string>
+    <string name="PentagramDelete">Esborrar</string>
+    <string name="PentagramHidden">El missatge va ser amagat per Pentagram</string>
+
+    <string name="PentagramWithTelegramLinks">Publicacions amb enllaços Telegram als canals</string>
+    <string name="PentagramWithTelegramLinksDescr">Totes les publicacions que continguin enllaços de Telegram (t.me o @example) s\'amagaran</string>
+    <string name="PentagramFeatures">Funcions del Pentagram</string>
+    <string name="PentagramDescr">**Pentagram** és un client amb funcions alternatives que utilitza l\'API de Telegram i forma part de l\'ecosistema de Telegram</string>
+
+</resources>

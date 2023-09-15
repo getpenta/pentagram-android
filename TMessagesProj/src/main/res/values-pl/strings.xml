@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="PentagramHidePosts">Ukryj posty</string>
+    <string name="PentagramWithExternalLinks">Posty z zewnętrznymi linkami na kanałach</string>
+    <string name="PentagramHide">Ukrywać</string>
+    <string name="PentagramWithExternalLinksDescr">Wszystkie posty zawierające wszelkie linki zewnętrzne zostaną ukryte</string>
+    <string name="PentagramStopWords">Zatrzymaj słowa</string>
+    <string name="PentagramAddNewWord">Dodaj nowe słowo</string>
+    <string name="PentagramEdit">Edytować</string>
+    <string name="PentagramDelete">Usunąć</string>
+    <string name="PentagramHidden">Wiadomość została ukryta przez Pentagram</string>
+
+    <string name="PentagramWithTelegramLinks">Posty z Telegram linkami na kanałach</string>
+    <string name="PentagramWithTelegramLinksDescr">Wszystkie posty zawierające linki do telegramów (t.me lub @example) zostaną ukryte</string>
+    <string name="PentagramFeatures">Funkcje Pentagrama</string>
+    <string name="PentagramDescr">**Pentagram** to klient z alternatywnymi funkcjami który korzysta z Telegram API i jest częścią ekosystemu Telegram</string>
+
+</resources>

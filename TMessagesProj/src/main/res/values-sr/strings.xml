@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="PentagramHidePosts">Сакриј постове</string>
+    <string name="PentagramWithExternalLinks">Постови са спољним везама на каналима</string>
+    <string name="PentagramHide">Сакрити</string>
+    <string name="PentagramWithExternalLinksDescr">Све постове који садрже било које спољне везе биће скривене</string>
+    <string name="PentagramStopWords">Престани речи</string>
+    <string name="PentagramAddNewWord">Додајте нову реч</string>
+    <string name="PentagramEdit">Уредити</string>
+    <string name="PentagramDelete">Избрисати</string>
+    <string name="PentagramHidden">Поруку је сакрио Pentagram</string>
+
+    <string name="PentagramWithTelegramLinks">Постови са Telegram везама на каналима</string>
+    <string name="PentagramWithTelegramLinksDescr">Сви постови који садрже било које Telegram везе (t.me или @example) биће сакривени</string>
+    <string name="PentagramFeatures">Pentagram савети</string>
+    <string name="PentagramDescr">**Пентаграм** је клијент са алтернативним функцијама који користи Telegram API и део је Telegram екосистема</string>
+
+</resources>

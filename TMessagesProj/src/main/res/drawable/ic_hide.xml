@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:drawable="@android:color/transparent"
+        android:gravity="fill"/>
+
+    <item
+        android:drawable="@drawable/msg_view_file"
+        android:gravity="center"/>
+
+    <item
+        android:gravity="center">
+        <rotate
+            android:fromDegrees="45"
+            android:toDegrees="45"
+            android:pivotX="50%"
+            android:pivotY="50%">
+            <shape
+                android:shape="rectangle">
+                <size
+                    android:height="1.5dp"
+                    android:width="28dp"/>
+                <solid
+                    android:color="#ffffff"/>
+                <corners
+                    android:radius="1dp"/>
+            </shape>
+        </rotate>
+    </item>
+</layer-list>

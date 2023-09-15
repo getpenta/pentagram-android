@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="PentagramHidePosts">Cacher les messages</string>
+    <string name="PentagramWithExternalLinks">Posts avec des liens externes sur les canaux</string>
+    <string name="PentagramHide">Cacher</string>
+    <string name="PentagramWithExternalLinksDescr">Tous les messages contenant des liens externes seront cachés</string>
+    <string name="PentagramStopWords">Mots d\'arrêt</string>
+    <string name="PentagramAddNewWord">Ajouter un nouveau mot</string>
+    <string name="PentagramEdit">Éditer</string>
+    <string name="PentagramDelete">Supprimer</string>
+    <string name="PentagramHidden">Le message a été masqué par Pentagram</string>
+
+    <string name="PentagramWithTelegramLinks">Posts avec des liens Telegram sur les canaux</string>
+    <string name="PentagramWithTelegramLinksDescr">Tous les messages contenant des liens Telegram (t.me ou @example) seront masqués</string>
+    <string name="PentagramFeatures">Fonctionnalités de Pentagram</string>
+    <string name="PentagramDescr">**Pentagram** est un client avec des fonctions alternatives qui utilise l\'API Telegram et fait partie de l\'écosystème Telegram</string>
+
+</resources>

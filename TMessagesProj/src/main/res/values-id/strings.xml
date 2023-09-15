@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="PentagramHidePosts">Sembunyikan postingan</string>
+    <string name="PentagramWithExternalLinks">Posting dengan tautan eksternal di saluran</string>
+    <string name="PentagramHide">Bersembunyi</string>
+    <string name="PentagramWithExternalLinksDescr">Semua posting yang berisi tautan eksternal akan disembunyikan</string>
+    <string name="PentagramStopWords">Hentikan kata -kata</string>
+    <string name="PentagramAddNewWord">Tambahkan kata baru</string>
+    <string name="PentagramEdit">Edit</string>
+    <string name="PentagramDelete">Menghapus</string>
+    <string name="PentagramHidden">Pesan itu disembunyikan oleh Pentagram</string>
+
+    <string name="PentagramWithTelegramLinks">Posting dengan tautan Telegram di saluran</string>
+    <string name="PentagramWithTelegramLinksDescr">Semua posting yang berisi tautan Telegram (t.me atau @example) akan disembunyikan</string>
+    <string name="PentagramFeatures">Fitur Pentagram</string>
+    <string name="PentagramDescr">**Pentagram** adalah klien dengan fungsi alternatif yang menggunakan API Telegram dan merupakan bagian dari ekosistem Telegram</string>
+
+</resources>

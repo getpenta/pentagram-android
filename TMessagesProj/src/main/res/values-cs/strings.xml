@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="PentagramHidePosts">Skrýt příspěvky</string>
+    <string name="PentagramWithExternalLinks">Příspěvky s externími odkazy na kanálech</string>
+    <string name="PentagramHide">Skrýt</string>
+    <string name="PentagramWithExternalLinksDescr">Všechny příspěvky obsahující jakékoli externí odkazy budou skryty</string>
+    <string name="PentagramStopWords">Zastavit slova</string>
+    <string name="PentagramAddNewWord">Přidejte nové slovo</string>
+    <string name="PentagramEdit">Upravit</string>
+    <string name="PentagramDelete">Vymazat</string>
+    <string name="PentagramHidden">Zpráva byla skryta Pentagram</string>
+
+    <string name="PentagramWithTelegramLinks">Příspěvky s Telegram odkazy na kanálech</string>
+    <string name="PentagramWithTelegramLinksDescr">Všechny příspěvky obsahující jakékoli odkazy na Telegram (t.me nebo @example) budou skryté</string>
+    <string name="PentagramFeatures">Funkce Pentagramu</string>
+    <string name="PentagramDescr">**Pentagram** je klient s alternativními funkcemi který používá Telegram API a je součástí ekosystému Telegram</string>
+
+</resources>

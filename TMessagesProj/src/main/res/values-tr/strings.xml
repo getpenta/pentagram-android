@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="PentagramHidePosts">Mesajları gizle</string>
+    <string name="PentagramWithExternalLinks">Kanallarda harici bağlantıları olan yayınlar</string>
+    <string name="PentagramHide">Saklamak</string>
+    <string name="PentagramWithExternalLinksDescr">Herhangi bir harici bağlantıyı içeren tüm yayınlar gizlenecektir</string>
+    <string name="PentagramStopWords">Kelimeleri Durdur</string>
+    <string name="PentagramAddNewWord">Yeni kelime ekle</string>
+    <string name="PentagramEdit">Düzenlemek</string>
+    <string name="PentagramDelete">Silmek</string>
+    <string name="PentagramHidden">İleti Pentagram tarafından gizlendi</string>
+
+    <string name="PentagramWithTelegramLinks">Kanallarda Telegram bağlantıları olan yayınlar</string>
+    <string name="PentagramWithTelegramLinksDescr">Herhangi bir Telegram bağlantısı (t.me veya @example) içeren tüm gönderiler gizlenecek</string>
+    <string name="PentagramFeatures">Pentagram Özellikleri</string>
+    <string name="PentagramDescr">**Pentagram** Telegram API\'sini kullanan ve Telegram ekosisteminin bir parçası olan alternatif işlevlere sahip bir istemcidir</string>
+
+</resources>

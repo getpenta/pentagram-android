@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="PentagramHidePosts">Skjul innlegg</string>
+    <string name="PentagramWithExternalLinks">Innlegg med eksterne lenker på kanaler</string>
+    <string name="PentagramHide">Gjemme seg</string>
+    <string name="PentagramWithExternalLinksDescr">Alle innlegg som inneholder eksterne lenker vil være skjult</string>
+    <string name="PentagramStopWords">Stopp ord</string>
+    <string name="PentagramAddNewWord">Legg til nytt ord</string>
+    <string name="PentagramEdit">Redigere</string>
+    <string name="PentagramDelete">Slett</string>
+    <string name="PentagramHidden">Meldingen ble skjult av Pentagram</string>
+
+    <string name="PentagramWithTelegramLinks">Innlegg med Telegram lenker på kanaler</string>
+    <string name="PentagramWithTelegramLinksDescr">Alle innlegg som inneholder Telegram-lenker (t.me eller @example) vil bli skjult</string>
+    <string name="PentagramFeatures">Funksjoner i Pentagram</string>
+    <string name="PentagramDescr">**Pentagram** er en klient med alternative funksjoner som bruker Telegram API og er en del av Telegram-økosystemet</string>
+
+</resources>

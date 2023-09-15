@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="PentagramHidePosts">Xabarlarni yashirish</string>
+    <string name="PentagramWithExternalLinks">Kanallar bo\'yicha tashqi havolalar</string>
+    <string name="PentagramHide">Yashirmoq</string>
+    <string name="PentagramWithExternalLinksDescr">Har qanday tashqi havolalarni o\'z ichiga olgan barcha xabarlar yashirin bo\'ladi</string>
+    <string name="PentagramStopWords">So\'zlarni to\'xtating</string>
+    <string name="PentagramAddNewWord">Yangi so\'z qo\'shing</string>
+    <string name="PentagramEdit">Tahrirlamoq</string>
+    <string name="PentagramDelete">O\'chirmoq</string>
+    <string name="PentagramHidden">Xabar Pentagram tomonidan yashirilgan</string>
+
+    <string name="PentagramWithTelegramLinks">Kanallar bo\'yicha Telegram havolalar</string>
+    <string name="PentagramWithTelegramLinksDescr">Har qanday Telegram havolasi (t.me yoki @example) bo\'lgan barcha postlar yashiriladi</string>
+    <string name="PentagramFeatures">Pentagram funksiyalari</string>
+    <string name="PentagramDescr">**Pentagram** - Telegram API-dan foydalanadigan va Telegram ekotizimining bir qismi bo\'lgan muqobil funksiyalarga ega mijoz</string>
+
+</resources>

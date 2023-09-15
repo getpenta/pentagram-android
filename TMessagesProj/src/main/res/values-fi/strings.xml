@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="PentagramHidePosts">Piilottaa viestit</string>
+    <string name="PentagramWithExternalLinks">Viestit, joissa on ulkoiset linkit kanavilla</string>
+    <string name="PentagramHide">Piilottaa</string>
+    <string name="PentagramWithExternalLinksDescr">Kaikki ulkoiset linkit sisältävät viestit ovat piilossa</string>
+    <string name="PentagramStopWords">Pysäyttää sanat</string>
+    <string name="PentagramAddNewWord">Lisää uusi sana</string>
+    <string name="PentagramEdit">Muokata</string>
+    <string name="PentagramDelete">Poistaa</string>
+    <string name="PentagramHidden">Pentagram piilotti viestin</string>
+
+    <string name="PentagramWithTelegramLinks">Viestit joissa on Telegram linkit kanavilla</string>
+    <string name="PentagramWithTelegramLinksDescr">Kaikki viestit jotka sisältävät Telegram-linkkejä (t.me tai @example) piilotetaan</string>
+    <string name="PentagramFeatures">Pentagram-vinkkejä</string>
+    <string name="PentagramDescr">**Pentagram** on vaihtoehtoisia toimintoja sisältävä asiakasohjelma joka käyttää Telegram-sovellusliittymää ja on osa Telegram-ekosysteemiä</string>
+
+</resources>

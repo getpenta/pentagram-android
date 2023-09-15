@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "17764153830",
+    "project_id": "pentagram-android",
+    "storage_bucket": "pentagram-android.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:17764153830:android:cbbe3f85f25759a59e3e27",
+        "android_client_info": {
+          "package_name": "top.pentagram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "17764153830-su0j0asg0eik4p76fhhhcjtgu2g2ons8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAr4vGMVgVsTgB_vN01ADGssxIXTDnnAuQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "17764153830-su0j0asg0eik4p76fhhhcjtgu2g2ons8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:17764153830:android:867cea7b140e7c089e3e27",
+        "android_client_info": {
+          "package_name": "top.pentagram.beta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "17764153830-su0j0asg0eik4p76fhhhcjtgu2g2ons8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAr4vGMVgVsTgB_vN01ADGssxIXTDnnAuQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "17764153830-su0j0asg0eik4p76fhhhcjtgu2g2ons8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

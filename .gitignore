@@ -1,0 +1,8 @@
+.idea/
+.gradle/
+build/
+TMessagesProj/.cxx/
+obj/
+*.iml
+pentagram-keystore.jks
+local.properties
